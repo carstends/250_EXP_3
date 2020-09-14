@@ -4,7 +4,7 @@ In this assignement I have got familiar with MongoDB following the official tuto
 set-up of a small db with crud-operations tested on it. 
 
 -- Technical problems
-None
+: None
 
 ### Getting started
 
