@@ -1,4 +1,4 @@
-# Software Technology Experiment Assignment 3
+# Software Technology Experiment - Assignment 3
 
 In this assignement I have got familiar with MongoDB following the official tutorial - reading some documentation, performing the necassary installation and a 
 set-up of a small db with crud-operations tested on it. 
