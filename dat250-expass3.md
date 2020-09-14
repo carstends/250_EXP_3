@@ -4,9 +4,11 @@ In this assignement I have got familiar with MongoDB following the official tuto
 set-up of a small db with crud-operations tested on it. 
 
 -- Technical problems
+None
 
 ### Getting started
 
+The 'getting started' tutorial from mongodb step 0-4 went smooth, and provided a clear introduction
 
 
 
@@ -15,6 +17,8 @@ set-up of a small db with crud-operations tested on it.
 Installation and verification
 ![Installation successfull](https://github.com/h181214/250_EXP_3/blob/master/pics/ver.png)
 
+
+Following with screenshots from the official mongodb CRUD operations tutorial:
 
 ![result 1 exp 1](https://github.com/h181214/250_EXP_3/blob/master/pics/1.png)
 
