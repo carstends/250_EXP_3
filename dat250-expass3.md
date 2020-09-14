@@ -13,7 +13,7 @@ set-up of a small db with crud-operations tested on it.
 ### Experiment 1
 
 Installation and verification
-![Installation successfull](https://github.com/h181214/250_EXP_3/blob/master/pics/ver)
+![Installation successfull](https://github.com/h181214/250_EXP_3/blob/master/pics/ver.png)
 
 
 ![result 1 exp 1](https://github.com/h181214/250_EXP_3/blob/master/pics/1.png)
@@ -33,12 +33,12 @@ how it can be useful. Some of the usefulness comes fromt that it can aggragate b
 ones - making it a useful tool in big data. 
 
 #### Tutorial
-![aggratation_exp2](https://github.com/h181214/250_EXP_3/blob/master/pics/map)
+![aggratation_exp2](https://github.com/h181214/250_EXP_3/blob/master/pics/map.png)
 
-![aggratation_exp2](https://github.com/h181214/250_EXP_3/blob/master/pics/map2)
+![aggratation_exp2](https://github.com/h181214/250_EXP_3/blob/master/pics/map2.png)
 
 #### Own implementation
-![aggratation_exp2](https://github.com/h181214/250_EXP_3/blob/master/pics/own_avg)
+![aggratation_exp2](https://github.com/h181214/250_EXP_3/blob/master/pics/own_avg.png)
 
 It's probably useful to know the average price spent sometimes to get more insight, and not just the sum
 
